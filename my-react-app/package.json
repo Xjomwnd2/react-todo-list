@@ -6,11 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview",
-    "start": "react-scripts start",
-  "build": "react-scripts build",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
+    "preview": "vite preview"
   },
   "devDependencies": {
     "typescript": "~5.7.2",

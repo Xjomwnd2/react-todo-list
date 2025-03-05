@@ -10,10 +10,9 @@
     "express": "^4.21.2",
     "nodemon": "^3.1.9"
   },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  }
+ "scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "serve": "vite preview"
+}
 }

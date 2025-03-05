@@ -8,11 +8,13 @@
   },
   "dependencies": {
     "express": "^4.21.2",
-    "nodemon": "^3.1.9"
+    "nodemon": "^3.1.9",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
   },
- "scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "serve": "vite preview"
-}
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  }
 }
